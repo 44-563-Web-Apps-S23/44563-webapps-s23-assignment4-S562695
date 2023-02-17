@@ -53,3 +53,33 @@ table,th,td {
     margin-left: 10px;
 }
 
+tr:nth-child(3){
+    background-color: rgb(140, 212, 155);
+}
+tr:nth-child(even){
+    background-color: rgb(122, 158, 205);
+}
+
+.CAPTAIN:hover {
+    background-color: rgb(121, 228, 193);
+    color: rgb(31, 230, 97);
+    text-shadow: 3px 3px 5px lightpink;
+    border: 3px solid rgb(228, 12, 174);
+    
+
+}
+
+.NURSE:hover {
+    background-color: rgb(128, 236, 200);
+    color: rgb(31, 230, 97);
+    text-shadow: 3px 3px 5px lightpink;
+    border: 3px solid rgb(228, 12, 174);
+}
+
+.ORDERLY:hover {
+    background-color: rgb(101, 224, 183);
+    color: rgb(31, 230, 97);
+    text-shadow: 3px 3px 5px lightpink;
+    border: 3px solid rgb(228, 12, 174);
+}
+
