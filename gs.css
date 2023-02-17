@@ -83,3 +83,14 @@ tr:nth-child(even){
     border: 20px solid rgb(228, 12, 174);
 }
 
+ul.navbar-horizontal{
+    display:flex; 
+}
+ul li{
+    margin: 20px;
+    padding: 30px; 
+    list-style: none;}
+         li a{
+            text-decoration: none;
+            background-color:rgb(151, 138, 151);
+         }
