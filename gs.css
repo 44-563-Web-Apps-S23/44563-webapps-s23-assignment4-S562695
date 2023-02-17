@@ -1,0 +1,39 @@
+.name{
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans';
+    font-size: 2;3px;
+    display: inline;
+}
+
+.speech{
+    color:rgb(26, 25, 25)
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.direction{
+    color: rgb(215, 119, 119);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color:rgb(151, 227, 212);
+}
+
+.direction:hover{
+    color: rgb(52, 42, 189);
+    background-color: rgb(213, 183, 145);
+}
+
+.CAPTAIN{
+    color:blanchedalmond;
+    font-size: 20px;
+}
+
+.NURSE{
+    color:brown;
+    font-size: 20px;
+}
+
+.ORDERLY{
+    color:aqua;
+    font-size: 20px;
+}
