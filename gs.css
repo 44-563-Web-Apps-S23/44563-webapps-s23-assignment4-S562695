@@ -37,3 +37,19 @@
     color:aqua;
     font-size: 20px;
 }
+
+table,th,td {
+    border: 1.5px solid;
+    border-collapse: collapse;
+    text-align: center;
+    color: chartreuse;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
